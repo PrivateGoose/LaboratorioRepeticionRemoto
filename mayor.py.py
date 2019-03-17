@@ -17,7 +17,7 @@ if n<0:
 
 if n=0:
   
-cero=cero+1
+  cero=cero+1
 
 while (conta <=10)
 
