@@ -22,6 +22,6 @@ if n=0:
 while (conta <=10)
 
 
-#Comment
+#Comment 1
 print("Hay {} números positivos, hay {} números negativos y hay {} ceros".format(pos,neg,cero))
  
